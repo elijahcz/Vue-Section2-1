@@ -1,5 +1,5 @@
 Vue.createApp({
     data() {
-        return {firstName: "ELijah"}
+        return {firstName: "ELijah", lastName: "Kreuz"}
     }
 }).mount('#app')
